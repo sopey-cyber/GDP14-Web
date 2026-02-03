@@ -1,4 +1,4 @@
-<h1 align="center">ArboForm </h1>
+<h1 align="center">ArborForm </h1>
 
 
 ## Description
